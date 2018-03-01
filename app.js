@@ -1,6 +1,8 @@
 $(document).ready(function () {
+  $('#stop-tick-btn').attr('disabled', true)
   console.log('lol')
 })
+
 // const maxRows = 20
 // const maxCols = 20
 // const tickPeriodMs = 1000
